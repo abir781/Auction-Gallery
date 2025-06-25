@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "Vintage Pocket Watch",
+      "description": "An antique gold-plated pocket watch from the 1920s.",
+      "currentBidPrice": 150.00,
+      "timeLeft": "2 days left",
+      "bidsCount": 8,
+      "image": "https://i.ibb.co.com/ZRgKLgn5/vintagewatch.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Signed Football Jersey",
+      "description": "Autographed jersey from a famous football player.",
+      "currentBidPrice": 320.00,
+      "timeLeft": "5 days left",
+      "bidsCount": 12,
+      "image": "https://i.ibb.co.com/VcmprNcS/jersy.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Rare Comic Book",
+      "description": "First edition rare comic book in excellent condition.",
+      "currentBidPrice": 210.00,
+      "timeLeft": "1 day left",
+      "bidsCount": 6,
+      "image": "https://i.ibb.co.com/Ngv5mJ3C/book.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Handcrafted Wooden Chair",
+      "description": "Beautifully carved chair made from oak wood.",
+      "currentBidPrice": 85.00,
+      "timeLeft": "3 days left",
+      "bidsCount": 4,
+      "image": "https://i.ibb.co.com/LdQkRbrd/chair.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Luxury Handbag",
+      "description": "Designer handbag made with premium leather.",
+      "currentBidPrice": 580.00,
+      "timeLeft": "4 days left",
+      "bidsCount": 15,
+      "image": "https://i.ibb.co.com/MxFgvf3D/bag.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Limited Edition Sneakers",
+      "description": "Limited drop sneakers in brand new condition.",
+      "currentBidPrice": 275.00,
+      "timeLeft": "6 days left",
+      "bidsCount": 10,
+      "image": "https://i.ibb.co.com/2YnPDgrk/sneaker.jpg"
+    }
+  ]
+  
