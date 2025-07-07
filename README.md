@@ -15,5 +15,8 @@
 ## Dependencies:
    - tailwind css
    - react-toastify
- 
+## How to run project on local machine:
+   - First clone the repository
+   - Install the dependencies
+   - Run the project 
 
