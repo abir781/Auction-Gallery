@@ -1,6 +1,6 @@
 ![image alt](https://i.ibb.co/359RWzhp/ss3.jpg)
 # Project Name: Auction Gallery
-## Project description: Users can add items from the table to their favorites and also remove them if desired. The favorites section includes a total amount display, reflecting the combined value of the selected items.
+##  Users can add items from the table to their favorites and also remove them if desired. The favorites section includes a total amount display, reflecting the combined value of the selected items.
 ## live url: https://profound-rabanadas-adb963.netlify.app/
 ## Key features:
    - Add items to favorite
